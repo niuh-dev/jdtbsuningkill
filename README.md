@@ -8,3 +8,5 @@
 ![公众号](https://github.com/niuh-dev/jdtbsuningkill/blob/main/qrcode_for_gh_c982d528664c_258.jpg)
 
 个人微信号:19972009719
+
+目前自己开放交流三个群，准备以后做公众号和小程序。有兴趣可以来聊天
