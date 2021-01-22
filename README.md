@@ -7,5 +7,5 @@
 公众号 
 ![公众号](https://github.com/niuh-dev/jdtbsuningkill/blob/main/qrcode_for_gh_c982d528664c_258.jpg)
 
-
+https://github.com/niuh-dev/jdtbsuningkill/qrcode_for_gh_c982d528664c_258.jpg
 个人微信号:19972009719
